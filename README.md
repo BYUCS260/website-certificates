@@ -136,7 +136,7 @@ Get a certificate is really easy. The EFF has created [Certbot](https://certbot.
 
 ![certbot](/images/certbot.png)
 
-Here are the [instructions for Nginx on Ubuntu 18.04](https://certbot.eff.org/lets-encrypt/ubuntubionic-nginx.html). In step 4, use the first command shown, which will automatically configure Nginx with a certificate for all of your Nginx websites.
+Here are the [instructions for Nginx on Ubuntu 18.04](https://certbot.eff.org/instructions?ws=nginx&os=ubuntufocal). In step 4, use the first command shown, which will automatically configure Nginx with a certificate for all of your Nginx websites.
 
 ```
 sudo certbot --nginx
